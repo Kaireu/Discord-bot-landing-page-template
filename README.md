@@ -1,4 +1,4 @@
-# Discord-bot-landing-page-template
+# Discord Bot Landing Page Template
 Just a simple landing page for your discord bot with animations, works with different devices and easy to modify
 
 This landing page can be also used for other purposes, it can be used as a personal portfolio and so on
