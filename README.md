@@ -15,7 +15,7 @@ Clone, download or fork the repo and open index.html on any editor
 Then change all the required text in index.html or modify it the way you want it to look like (all the things i placed are only placeholders)
 
 # GIF Preview
-
+<img src ="https://imgur.com/8ixvuYh.gif">
 # Static Preview
 <img src="https://i.imgur.com/WJXEFjx.png">
 
