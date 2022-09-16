@@ -16,6 +16,7 @@ Then change all the required text in index.html or modify it the way you want it
 
 # GIF Preview
 <img src ="https://imgur.com/8ixvuYh.gif">
+
 # Static Preview
 <img src="https://i.imgur.com/WJXEFjx.png">
 
